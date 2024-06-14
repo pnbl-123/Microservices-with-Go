@@ -2,4 +2,4 @@
 .vscode
 **/pkg/mod/
 main
-
+.idea
